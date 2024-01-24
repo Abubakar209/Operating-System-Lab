@@ -55,4 +55,8 @@ Follow this comprehensive tutorial to seamlessly install Windows on your PC.
 
 ![9a1899a3-6502-400f-997f-8313ca2a9eff](https://github.com/Abubakar209/Operating-System-Lab/assets/120156365/c6f578f7-6757-4021-8f80-16312c192ad8)
 
+
+![congrats jpeg](https://github.com/Abubakar209/Operating-System-Lab/assets/120156365/f4e5586a-5153-4a3b-bbc6-c8c18b7412f9)
+
+
 Your computer now has Windows installed successfully. Congratulations!
