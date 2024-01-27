@@ -10,13 +10,13 @@
 
 [https://customerconnect.vmware.com/en/downloads/](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0)
 
-![](../Music/1.png)
+![](G:/images/1.png)
 
 
 
 **Step 2:** Now, Click on download now. (Check which OS you are selecting).
 
-![](../Music/2.png)
+![](G:/images/2.png)
 
 **Step 3:** Open the (.exe) file and install it.
 
